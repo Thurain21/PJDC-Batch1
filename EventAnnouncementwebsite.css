@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    display:flex;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0;
+}
+h5{
+    font-size: 20px;
+}
+.container-fluid{
+    background-image: url(https://i.postimg.cc/j5B8Mnmw/business-leader-talent.jpg);
+    background-size: cover;
+}
+.bcolor{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
